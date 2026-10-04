@@ -39,7 +39,6 @@ apis:
   - name: Tenders in Spain
     description: "Get data for procurements in Spain in JSON format"
     humanURL: https://tenders.guru/es/api
-    baseURL: https://tenders.guru/es/api
     tags:
       - Business
     properties:
